@@ -2,8 +2,6 @@
 ### Football prediction app for Premiere League
 
 - Setup virtual enviroment:
-
-- Create and activate virtual enviroment:
     ```bash
     virtualenv -p python3 .
   
@@ -15,4 +13,13 @@
     
     # install requirements.txt 
     pip install -r requirements.txt
+    ```
+    
+- Add new packages to virtual enviroment:
+    ```bash
+    # example install
+    pip install numpy
+    
+    # export to requirements.txt 
+    pip freeze > /requirements.txt 
     ```
