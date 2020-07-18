@@ -7,31 +7,11 @@ import aiohttp
 from understat import Understat
 import pandas as pd
 
-TEAMS_2018 = ["Liverpool",
-              "Manchester United",
-              "Tottenham",
-              "Arsenal",
-              "Manchester United",
-              "Chelsea",
-              "Wolverhampton Wanderers",
-              "Everton",
-              "Leicester",
-              "West Ham",
-              "Watford",
-              "Crystal Palace",
-              "Bournemounth",
-              "Newcastle United",
-              "Burnley",
-              "Cardfiff",
-              "Southampton",
-              "Brighton",
-              "Fulham",
-              "Huddersfield"
-              ]
+from .xG_teams import *
 
 
 async def main():
-    for team in TEAMS_2018[:2]:
+    for team in TEAMS_2018:
         async with aiohttp.ClientSession() as session:
             understat = Understat(session)
 
@@ -41,11 +21,13 @@ async def main():
                 side="h"
             )
 
-            # with open(f'{team}.json', 'w') as outfile:
-            #     json.dump(data, outfile, sort_keys=True, indent=4,
-            #               ensure_ascii=False)
+            # with open(f'{team}_raw.json', 'w') as outfile:
+            # json.dump(data, outfile, sort_keys=True, indent=4,
+            # ensure_ascii=False)
 
-            data_to_csv = json.dumps(data)
+            data_to_csv = data.copy()
+            # with open(f'{team}_raw.json', 'r') as read_file:
+            # data_to_csv = json.load(read_file)
 
             print(json.dumps(data))
 
