@@ -1,7 +1,7 @@
 ## IDS-football-prediction
-### Football prediction app for Premiere League
+### Football prediction app for Premier League
 
-- Setup virtual enviroment:
+- Setup virtual environment:
     ```bash
     virtualenv -p python3 .
   
@@ -15,7 +15,7 @@
     pip install -r requirements.txt
     ```
     
-- Add new packages to virtual enviroment:
+- Add new packages to virtual environment:
     ```bash
     # example install
     pip install numpy
