@@ -1,20 +1,20 @@
-,home_team,away_team,xG
-0,Bournemouth,Manchester United,0.522847
-1,Bournemouth,West Bromwich Albion,0.986511
-2,Bournemouth,Everton,0.693594
-3,Bournemouth,Hull,2.92532
-4,Bournemouth,Tottenham,0.523371
-5,Bournemouth,Sunderland,2.6457
-6,Bournemouth,Liverpool,2.54396
-7,Bournemouth,Leicester,0.64118
-8,Bournemouth,Southampton,0.492912
-9,Bournemouth,Arsenal,1.55859
-10,Bournemouth,Watford,1.14791
-11,Bournemouth,Crystal Palace,0.32099
-12,Bournemouth,Manchester City,0.152385
-13,Bournemouth,West Ham,3.68186
-14,Bournemouth,Swansea,1.00816
-15,Bournemouth,Chelsea,0.384152
-16,Bournemouth,Middlesbrough,3.27712
-17,Bournemouth,Stoke,1.30668
-18,Bournemouth,Burnley,1.5499
+,home_team,away_team,xG_home,xG_away
+0,Bournemouth,Manchester United,0.522847,1.91105
+1,Bournemouth,West Bromwich Albion,0.986511,1.48347
+2,Bournemouth,Everton,0.693594,1.15724
+3,Bournemouth,Hull,2.92532,0.388589
+4,Bournemouth,Tottenham,0.523371,0.74529
+5,Bournemouth,Sunderland,2.6457,1.13672
+6,Bournemouth,Liverpool,2.54396,1.26532
+7,Bournemouth,Leicester,0.64118,1.6751
+8,Bournemouth,Southampton,0.492912,1.69451
+9,Bournemouth,Arsenal,1.55859,1.12629
+10,Bournemouth,Watford,1.14791,1.08731
+11,Bournemouth,Crystal Palace,0.32099,1.60667
+12,Bournemouth,Manchester City,0.152385,2.953
+13,Bournemouth,West Ham,3.68186,1.25315
+14,Bournemouth,Swansea,1.00816,0.37687
+15,Bournemouth,Chelsea,0.384152,1.52126
+16,Bournemouth,Middlesbrough,3.27712,0.2072
+17,Bournemouth,Stoke,1.30668,2.3019
+18,Bournemouth,Burnley,1.5499,1.1511

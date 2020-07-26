@@ -1,19 +1,20 @@
-,home_team,away_team,xG
-0,Manchester City,Tottenham,3.20076
-1,Manchester City,Brighton,2.30818
-2,Manchester City,Watford,6.63049
-3,Manchester City,Wolverhampton Wanderers,1.61884
-4,Manchester City,Aston Villa,3.19004
-5,Manchester City,Southampton,3.36132
-6,Manchester City,Chelsea,1.23596
-7,Manchester City,Manchester United,2.07108
-8,Manchester City,Leicester,3.59139
-9,Manchester City,Sheffield United,1.08628
-10,Manchester City,Everton,1.79757
-11,Manchester City,Crystal Palace,2.47314
-12,Manchester City,West Ham,2.13777
-13,Manchester City,Arsenal,2.73725
-14,Manchester City,Burnley,2.71096
-15,Manchester City,Liverpool,2.65433
-16,Manchester City,Newcastle United,3.28662
-17,Manchester City,Bournemouth,0.82755
+,home_team,away_team,xG_home,xG_away
+0,Manchester City,Tottenham,3.20076,0.074542
+1,Manchester City,Brighton,2.30818,0.861035
+2,Manchester City,Watford,6.63049,0.344718
+3,Manchester City,Wolverhampton Wanderers,1.61884,1.18825
+4,Manchester City,Aston Villa,3.19004,0.980145
+5,Manchester City,Southampton,3.36132,0.893889
+6,Manchester City,Chelsea,1.23596,0.820474
+7,Manchester City,Manchester United,2.07108,1.63385
+8,Manchester City,Leicester,3.59139,1.01388
+9,Manchester City,Sheffield United,1.08628,1.23346
+10,Manchester City,Everton,1.79757,0.848942
+11,Manchester City,Crystal Palace,2.47314,0.586716
+12,Manchester City,West Ham,2.13777,0.0895892
+13,Manchester City,Arsenal,2.73725,0.496759
+14,Manchester City,Burnley,2.71096,0.0303408
+15,Manchester City,Liverpool,2.65433,0.819606
+16,Manchester City,Newcastle United,3.28662,0.21643
+17,Manchester City,Bournemouth,0.82755,1.66635
+18,Manchester City,Norwich,3.56749,0.786563

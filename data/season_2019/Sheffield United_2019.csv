@@ -1,19 +1,20 @@
-,home_team,away_team,xG
-0,Sheffield United,Crystal Palace,1.84778
-1,Sheffield United,Leicester,0.654318
-2,Sheffield United,Southampton,1.88034
-3,Sheffield United,Liverpool,1.17022
-4,Sheffield United,Arsenal,0.895722
-5,Sheffield United,Burnley,2.58392
-6,Sheffield United,Manchester United,1.56025
-7,Sheffield United,Newcastle United,1.09175
-8,Sheffield United,Aston Villa,1.888
-9,Sheffield United,Watford,2.04481
-10,Sheffield United,West Ham,2.02768
-11,Sheffield United,Manchester City,0.774943
-12,Sheffield United,Bournemouth,2.04467
-13,Sheffield United,Brighton,1.6597
-14,Sheffield United,Norwich,1.17263
-15,Sheffield United,Tottenham,1.59994
-16,Sheffield United,Wolverhampton Wanderers,0.470483
-17,Sheffield United,Chelsea,2.00632
+,home_team,away_team,xG_home,xG_away
+0,Sheffield United,Crystal Palace,1.84778,0.241912
+1,Sheffield United,Leicester,0.654318,0.704879
+2,Sheffield United,Southampton,1.88034,1.57659
+3,Sheffield United,Liverpool,1.17022,1.97079
+4,Sheffield United,Arsenal,0.895722,0.949735
+5,Sheffield United,Burnley,2.58392,0.716613
+6,Sheffield United,Manchester United,1.56025,1.33065
+7,Sheffield United,Newcastle United,1.09175,0.533775
+8,Sheffield United,Aston Villa,1.888,0.97258
+9,Sheffield United,Watford,2.04481,0.596611
+10,Sheffield United,West Ham,2.02768,0.90477
+11,Sheffield United,Manchester City,0.774943,2.873
+12,Sheffield United,Bournemouth,2.04467,1.07183
+13,Sheffield United,Brighton,1.6597,1.06035
+14,Sheffield United,Norwich,1.17263,2.55449
+15,Sheffield United,Tottenham,1.59994,1.01524
+16,Sheffield United,Wolverhampton Wanderers,0.470483,0.326909
+17,Sheffield United,Chelsea,2.00632,1.17509
+18,Sheffield United,Everton,0.468461,0.624814

@@ -1,20 +1,20 @@
-,home_team,away_team,xG
-0,Wolverhampton Wanderers,Everton,0.891038
-1,Wolverhampton Wanderers,Manchester City,1.26376
-2,Wolverhampton Wanderers,Burnley,3.3916
-3,Wolverhampton Wanderers,Southampton,1.42507
-4,Wolverhampton Wanderers,Watford,0.47391
-5,Wolverhampton Wanderers,Tottenham,2.40643
-6,Wolverhampton Wanderers,Huddersfield,0.701036
-7,Wolverhampton Wanderers,Chelsea,0.682893
-8,Wolverhampton Wanderers,Bournemouth,2.02223
-9,Wolverhampton Wanderers,Liverpool,0.763821
-10,Wolverhampton Wanderers,Crystal Palace,0.656255
-11,Wolverhampton Wanderers,Leicester,2.21719
-12,Wolverhampton Wanderers,West Ham,2.0363
-13,Wolverhampton Wanderers,Newcastle United,2.30998
-14,Wolverhampton Wanderers,Cardiff,3.2075
-15,Wolverhampton Wanderers,Manchester United,1.65044
-16,Wolverhampton Wanderers,Brighton,2.60447
-17,Wolverhampton Wanderers,Arsenal,0.982018
-18,Wolverhampton Wanderers,Fulham,2.09397
+,home_team,away_team,xG_home,xG_away
+0,Wolverhampton Wanderers,Everton,0.891038,0.715382
+1,Wolverhampton Wanderers,Manchester City,1.26376,1.84293
+2,Wolverhampton Wanderers,Burnley,3.3916,0.208994
+3,Wolverhampton Wanderers,Southampton,1.42507,0.679627
+4,Wolverhampton Wanderers,Watford,0.47391,1.0684
+5,Wolverhampton Wanderers,Tottenham,2.40643,1.63123
+6,Wolverhampton Wanderers,Huddersfield,0.701036,0.627281
+7,Wolverhampton Wanderers,Chelsea,0.682893,1.10702
+8,Wolverhampton Wanderers,Bournemouth,2.02223,0.52685
+9,Wolverhampton Wanderers,Liverpool,0.763821,2.16356
+10,Wolverhampton Wanderers,Crystal Palace,0.656255,1.94658
+11,Wolverhampton Wanderers,Leicester,2.21719,1.33831
+12,Wolverhampton Wanderers,West Ham,2.0363,0.130179
+13,Wolverhampton Wanderers,Newcastle United,2.30998,0.435263
+14,Wolverhampton Wanderers,Cardiff,3.2075,0.702261
+15,Wolverhampton Wanderers,Manchester United,1.65044,2.03847
+16,Wolverhampton Wanderers,Brighton,2.60447,0.115051
+17,Wolverhampton Wanderers,Arsenal,0.982018,0.939754
+18,Wolverhampton Wanderers,Fulham,2.09397,0.512477

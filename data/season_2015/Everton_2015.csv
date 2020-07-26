@@ -1,20 +1,20 @@
-,home_team,away_team,xG
-0,Everton,Watford,0.604226
-1,Everton,Manchester City,0.579338
-2,Everton,Chelsea,1.18026
-3,Everton,Liverpool,1.20063
-4,Everton,Manchester United,0.653457
-5,Everton,Sunderland,2.34852
-6,Everton,Aston Villa,2.83068
-7,Everton,Crystal Palace,1.69774
-8,Everton,Leicester,1.48982
-9,Everton,Stoke,2.2472
-10,Everton,Tottenham,0.721603
-11,Everton,Swansea,1.94094
-12,Everton,Newcastle United,2.48447
-13,Everton,West Bromwich Albion,1.82912
-14,Everton,West Ham,2.09025
-15,Everton,Arsenal,0.58617
-16,Everton,Southampton,0.318721
-17,Everton,Bournemouth,0.95281
-18,Everton,Norwich,2.40775
+,home_team,away_team,xG_home,xG_away
+0,Everton,Watford,0.604226,0.557892
+1,Everton,Manchester City,0.579338,1.57983
+2,Everton,Chelsea,1.18026,0.656048
+3,Everton,Liverpool,1.20063,1.30844
+4,Everton,Manchester United,0.653457,1.47853
+5,Everton,Sunderland,2.34852,1.21834
+6,Everton,Aston Villa,2.83068,0.322061
+7,Everton,Crystal Palace,1.69774,1.1905
+8,Everton,Leicester,1.48982,2.02911
+9,Everton,Stoke,2.2472,1.58159
+10,Everton,Tottenham,0.721603,0.75907
+11,Everton,Swansea,1.94094,1.08055
+12,Everton,Newcastle United,2.48447,0.626239
+13,Everton,West Bromwich Albion,1.82912,1.1974
+14,Everton,West Ham,2.09025,2.72091
+15,Everton,Arsenal,0.58617,1.92384
+16,Everton,Southampton,0.318721,1.38323
+17,Everton,Bournemouth,0.95281,1.42599
+18,Everton,Norwich,2.40775,0.43016

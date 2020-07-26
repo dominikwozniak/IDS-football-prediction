@@ -1,20 +1,20 @@
-,home_team,away_team,xG
-0,Stoke,Manchester City,1.31066
-1,Stoke,Tottenham,1.01771
-2,Stoke,West Bromwich Albion,0.979673
-3,Stoke,Sunderland,2.29543
-4,Stoke,Swansea,2.16407
-5,Stoke,Bournemouth,1.60429
-6,Stoke,Burnley,1.12929
-7,Stoke,Southampton,0.333754
-8,Stoke,Leicester,2.518
-9,Stoke,Watford,1.85359
-10,Stoke,Manchester United,0.353777
-11,Stoke,Everton,1.7362
-12,Stoke,Crystal Palace,0.720883
-13,Stoke,Middlesbrough,2.97584
-14,Stoke,Chelsea,0.952053
-15,Stoke,Liverpool,2.13972
-16,Stoke,Hull,2.01829
-17,Stoke,West Ham,1.35509
-18,Stoke,Arsenal,1.30239
+,home_team,away_team,xG_home,xG_away
+0,Stoke,Manchester City,1.31066,2.17198
+1,Stoke,Tottenham,1.01771,2.77025
+2,Stoke,West Bromwich Albion,0.979673,0.270862
+3,Stoke,Sunderland,2.29543,0.587572
+4,Stoke,Swansea,2.16407,1.10058
+5,Stoke,Bournemouth,1.60429,1.24012
+6,Stoke,Burnley,1.12929,0.773995
+7,Stoke,Southampton,0.333754,0.723114
+8,Stoke,Leicester,2.518,1.25572
+9,Stoke,Watford,1.85359,0.510395
+10,Stoke,Manchester United,0.353777,1.74295
+11,Stoke,Everton,1.7362,0.870158
+12,Stoke,Crystal Palace,0.720883,0.202159
+13,Stoke,Middlesbrough,2.97584,0.274611
+14,Stoke,Chelsea,0.952053,1.95538
+15,Stoke,Liverpool,2.13972,1.02225
+16,Stoke,Hull,2.01829,1.17696
+17,Stoke,West Ham,1.35509,0.65149
+18,Stoke,Arsenal,1.30239,2.63639

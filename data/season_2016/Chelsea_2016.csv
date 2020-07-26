@@ -1,20 +1,20 @@
-,home_team,away_team,xG
-0,Chelsea,West Ham,1.4603
-1,Chelsea,Burnley,2.65838
-2,Chelsea,Liverpool,1.16415
-3,Chelsea,Leicester,3.11573
-4,Chelsea,Manchester United,2.25192
-5,Chelsea,Everton,1.94078
-6,Chelsea,Tottenham,1.24948
-7,Chelsea,West Bromwich Albion,0.551109
-8,Chelsea,Bournemouth,1.71303
-9,Chelsea,Stoke,1.94737
-10,Chelsea,Hull,1.47165
-11,Chelsea,Arsenal,1.95451
-12,Chelsea,Swansea,1.22573
-13,Chelsea,Crystal Palace,3.16805
-14,Chelsea,Manchester City,1.36933
-15,Chelsea,Southampton,1.4438
-16,Chelsea,Middlesbrough,2.28046
-17,Chelsea,Watford,2.65315
-18,Chelsea,Sunderland,2.73947
+,home_team,away_team,xG_home,xG_away
+0,Chelsea,West Ham,1.4603,0.445604
+1,Chelsea,Burnley,2.65838,0.18449
+2,Chelsea,Liverpool,1.16415,1.41642
+3,Chelsea,Leicester,3.11573,0.182549
+4,Chelsea,Manchester United,2.25192,0.742805
+5,Chelsea,Everton,1.94078,0.0131321
+6,Chelsea,Tottenham,1.24948,0.422568
+7,Chelsea,West Bromwich Albion,0.551109,0.212574
+8,Chelsea,Bournemouth,1.71303,0.650942
+9,Chelsea,Stoke,1.94737,0.858417
+10,Chelsea,Hull,1.47165,0.314532
+11,Chelsea,Arsenal,1.95451,0.950035
+12,Chelsea,Swansea,1.22573,0.280172
+13,Chelsea,Crystal Palace,3.16805,1.57423
+14,Chelsea,Manchester City,1.36933,2.2614
+15,Chelsea,Southampton,1.4438,1.32952
+16,Chelsea,Middlesbrough,2.28046,0.0718773
+17,Chelsea,Watford,2.65315,0.883368
+18,Chelsea,Sunderland,2.73947,0.693994

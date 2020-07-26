@@ -1,20 +1,20 @@
-,home_team,away_team,xG
-0,Burnley,Watford,0.392642
-1,Burnley,Manchester United,1.09923
-2,Burnley,Bournemouth,2.29417
-3,Burnley,Huddersfield,0.353128
-4,Burnley,Chelsea,0.269828
-5,Burnley,Newcastle United,1.49487
-6,Burnley,Liverpool,1.05809
-7,Burnley,Brighton,1.81251
-8,Burnley,Everton,1.88646
-9,Burnley,West Ham,2.89884
-10,Burnley,Fulham,0.809801
-11,Burnley,Southampton,2.00175
-12,Burnley,Tottenham,1.08514
-13,Burnley,Crystal Palace,1.90872
-14,Burnley,Leicester,1.17008
-15,Burnley,Wolverhampton Wanderers,0.572695
-16,Burnley,Cardiff,2.84358
-17,Burnley,Manchester City,0.0899809
-18,Burnley,Arsenal,1.72939
+,home_team,away_team,xG_home,xG_away
+0,Burnley,Watford,0.392642,1.9171
+1,Burnley,Manchester United,1.09923,2.90359
+2,Burnley,Bournemouth,2.29417,0.976413
+3,Burnley,Huddersfield,0.353128,1.02549
+4,Burnley,Chelsea,0.269828,3.01621
+5,Burnley,Newcastle United,1.49487,1.67701
+6,Burnley,Liverpool,1.05809,2.73897
+7,Burnley,Brighton,1.81251,0.951507
+8,Burnley,Everton,1.88646,1.8875
+9,Burnley,West Ham,2.89884,0.656044
+10,Burnley,Fulham,0.809801,0.903255
+11,Burnley,Southampton,2.00175,0.787747
+12,Burnley,Tottenham,1.08514,0.845211
+13,Burnley,Crystal Palace,1.90872,0.706284
+14,Burnley,Leicester,1.17008,0.608954
+15,Burnley,Wolverhampton Wanderers,0.572695,0.397928
+16,Burnley,Cardiff,2.84358,0.872224
+17,Burnley,Manchester City,0.0899809,2.34878
+18,Burnley,Arsenal,1.72939,2.87276

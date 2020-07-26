@@ -1,20 +1,20 @@
-,home_team,away_team,xG
-0,Cardiff,Newcastle United,1.15521
-1,Cardiff,Arsenal,0.77426
-2,Cardiff,Manchester City,0.0980726
-3,Cardiff,Burnley,1.56707
-4,Cardiff,Fulham,1.7562
-5,Cardiff,Leicester,0.922262
-6,Cardiff,Brighton,1.94297
-7,Cardiff,Wolverhampton Wanderers,1.09264
-8,Cardiff,Southampton,1.55832
-9,Cardiff,Manchester United,1.27173
-10,Cardiff,Tottenham,1.0789
-11,Cardiff,Huddersfield,0.124558
-12,Cardiff,Bournemouth,2.53093
-13,Cardiff,Watford,1.90045
-14,Cardiff,Everton,0.219359
-15,Cardiff,West Ham,3.49275
-16,Cardiff,Chelsea,0.446122
-17,Cardiff,Liverpool,1.1187
-18,Cardiff,Crystal Palace,1.4996
+,home_team,away_team,xG_home,xG_away
+0,Cardiff,Newcastle United,1.15521,1.55405
+1,Cardiff,Arsenal,0.77426,1.41005
+2,Cardiff,Manchester City,0.0980726,3.08415
+3,Cardiff,Burnley,1.56707,0.111527
+4,Cardiff,Fulham,1.7562,0.947712
+5,Cardiff,Leicester,0.922262,2.18288
+6,Cardiff,Brighton,1.94297,0.767044
+7,Cardiff,Wolverhampton Wanderers,1.09264,0.987623
+8,Cardiff,Southampton,1.55832,0.501128
+9,Cardiff,Manchester United,1.27173,2.72523
+10,Cardiff,Tottenham,1.0789,1.38282
+11,Cardiff,Huddersfield,0.124558,0.39468
+12,Cardiff,Bournemouth,2.53093,0.35199
+13,Cardiff,Watford,1.90045,2.75798
+14,Cardiff,Everton,0.219359,1.14212
+15,Cardiff,West Ham,3.49275,0.295869
+16,Cardiff,Chelsea,0.446122,2.07834
+17,Cardiff,Liverpool,1.1187,2.42404
+18,Cardiff,Crystal Palace,1.4996,1.80991

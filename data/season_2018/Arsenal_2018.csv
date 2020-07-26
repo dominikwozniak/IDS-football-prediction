@@ -1,20 +1,20 @@
-,home_team,away_team,xG
-0,Arsenal,Manchester City,0.445187
-1,Arsenal,West Ham,1.7852
-2,Arsenal,Everton,0.930544
-3,Arsenal,Watford,1.57061
-4,Arsenal,Leicester,2.91637
-5,Arsenal,Liverpool,1.62321
-6,Arsenal,Wolverhampton Wanderers,0.965843
-7,Arsenal,Tottenham,2.71421
-8,Arsenal,Huddersfield,2.02156
-9,Arsenal,Burnley,1.4656
-10,Arsenal,Fulham,4.43325
-11,Arsenal,Chelsea,2.09412
-12,Arsenal,Cardiff,2.69339
-13,Arsenal,Southampton,2.35088
-14,Arsenal,Bournemouth,3.18716
-15,Arsenal,Manchester United,1.52723
-16,Arsenal,Newcastle United,1.04458
-17,Arsenal,Crystal Palace,1.54245
-18,Arsenal,Brighton,2.36178
+,home_team,away_team,xG_home,xG_away
+0,Arsenal,Manchester City,0.445187,2.0178
+1,Arsenal,West Ham,1.7852,1.17924
+2,Arsenal,Everton,0.930544,1.06523
+3,Arsenal,Watford,1.57061,2.62141
+4,Arsenal,Leicester,2.91637,0.932491
+5,Arsenal,Liverpool,1.62321,1.19558
+6,Arsenal,Wolverhampton Wanderers,0.965843,1.86549
+7,Arsenal,Tottenham,2.71421,1.0926
+8,Arsenal,Huddersfield,2.02156,0.308361
+9,Arsenal,Burnley,1.4656,1.03237
+10,Arsenal,Fulham,4.43325,1.71312
+11,Arsenal,Chelsea,2.09412,0.755304
+12,Arsenal,Cardiff,2.69339,0.597893
+13,Arsenal,Southampton,2.35088,0.613167
+14,Arsenal,Bournemouth,3.18716,0.88618
+15,Arsenal,Manchester United,1.52723,2.3703
+16,Arsenal,Newcastle United,1.04458,0.0441445
+17,Arsenal,Crystal Palace,1.54245,2.56216
+18,Arsenal,Brighton,2.36178,1.90585

@@ -1,20 +1,20 @@
-,home_team,away_team,xG
-0,West Bromwich Albion,Manchester City,0.435238
-1,West Bromwich Albion,Chelsea,1.42622
-2,West Bromwich Albion,Southampton,0.409143
-3,West Bromwich Albion,Everton,1.27511
-4,West Bromwich Albion,Sunderland,2.07781
-5,West Bromwich Albion,Leicester,1.50447
-6,West Bromwich Albion,Arsenal,0.332888
-7,West Bromwich Albion,Tottenham,1.48695
-8,West Bromwich Albion,Bournemouth,0.698255
-9,West Bromwich Albion,Newcastle United,2.1039
-10,West Bromwich Albion,Stoke,1.72318
-11,West Bromwich Albion,Aston Villa,0.23184
-12,West Bromwich Albion,Swansea,2.30645
-13,West Bromwich Albion,Crystal Palace,2.07488
-14,West Bromwich Albion,Manchester United,0.565787
-15,West Bromwich Albion,Norwich,0.332789
-16,West Bromwich Albion,Watford,2.2915
-17,West Bromwich Albion,West Ham,1.5346
-18,West Bromwich Albion,Liverpool,1.86869
+,home_team,away_team,xG_home,xG_away
+0,West Bromwich Albion,Manchester City,0.435238,1.9242
+1,West Bromwich Albion,Chelsea,1.42622,2.02778
+2,West Bromwich Albion,Southampton,0.409143,1.00731
+3,West Bromwich Albion,Everton,1.27511,2.30159
+4,West Bromwich Albion,Sunderland,2.07781,0.658473
+5,West Bromwich Albion,Leicester,1.50447,2.22545
+6,West Bromwich Albion,Arsenal,0.332888,2.08956
+7,West Bromwich Albion,Tottenham,1.48695,1.12876
+8,West Bromwich Albion,Bournemouth,0.698255,1.89177
+9,West Bromwich Albion,Newcastle United,2.1039,0.456189
+10,West Bromwich Albion,Stoke,1.72318,0.917526
+11,West Bromwich Albion,Aston Villa,0.23184,0.562461
+12,West Bromwich Albion,Swansea,2.30645,1.17928
+13,West Bromwich Albion,Crystal Palace,2.07488,1.21638
+14,West Bromwich Albion,Manchester United,0.565787,0.417622
+15,West Bromwich Albion,Norwich,0.332789,0.799255
+16,West Bromwich Albion,Watford,2.2915,0.364852
+17,West Bromwich Albion,West Ham,1.5346,1.27183
+18,West Bromwich Albion,Liverpool,1.86869,0.419877

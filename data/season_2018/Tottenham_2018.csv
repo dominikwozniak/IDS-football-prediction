@@ -1,20 +1,20 @@
-,home_team,away_team,xG
-0,Tottenham,Fulham,3.26713
-1,Tottenham,Liverpool,0.788168
-2,Tottenham,Cardiff,2.6517
-3,Tottenham,Manchester City,0.442436
-4,Tottenham,Chelsea,3.34649
-5,Tottenham,Southampton,1.73642
-6,Tottenham,Burnley,1.74625
-7,Tottenham,Bournemouth,2.23457
-8,Tottenham,Wolverhampton Wanderers,0.277704
-9,Tottenham,Manchester United,1.80359
-10,Tottenham,Watford,1.36248
-11,Tottenham,Newcastle United,3.10409
-12,Tottenham,Leicester,1.21144
-13,Tottenham,Arsenal,1.76818
-14,Tottenham,Crystal Palace,2.57376
-15,Tottenham,Huddersfield,2.78596
-16,Tottenham,Brighton,1.0032
-17,Tottenham,West Ham,1.35378
-18,Tottenham,Everton,0.882608
+,home_team,away_team,xG_home,xG_away
+0,Tottenham,Fulham,3.26713,1.44253
+1,Tottenham,Liverpool,0.788168,3.01015
+2,Tottenham,Cardiff,2.6517,1.13843
+3,Tottenham,Manchester City,0.442436,1.93588
+4,Tottenham,Chelsea,3.34649,0.962804
+5,Tottenham,Southampton,1.73642,1.82434
+6,Tottenham,Burnley,1.74625,0.451196
+7,Tottenham,Bournemouth,2.23457,1.21736
+8,Tottenham,Wolverhampton Wanderers,0.277704,1.20867
+9,Tottenham,Manchester United,1.80359,0.957777
+10,Tottenham,Watford,1.36248,0.479838
+11,Tottenham,Newcastle United,3.10409,0.400152
+12,Tottenham,Leicester,1.21144,3.02164
+13,Tottenham,Arsenal,1.76818,3.45713
+14,Tottenham,Crystal Palace,2.57376,0.564317
+15,Tottenham,Huddersfield,2.78596,0.983527
+16,Tottenham,Brighton,1.0032,0.143138
+17,Tottenham,West Ham,1.35378,0.991558
+18,Tottenham,Everton,0.882608,2.06851

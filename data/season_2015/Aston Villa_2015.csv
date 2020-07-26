@@ -1,20 +1,20 @@
-,home_team,away_team,xG
-0,Aston Villa,Manchester United,0.219118
-1,Aston Villa,Sunderland,2.27406
-2,Aston Villa,West Bromwich Albion,0.876719
-3,Aston Villa,Stoke,0.839028
-4,Aston Villa,Swansea,1.09516
-5,Aston Villa,Manchester City,0.182741
-6,Aston Villa,Watford,1.48969
-7,Aston Villa,Arsenal,1.00876
-8,Aston Villa,West Ham,1.61235
-9,Aston Villa,Crystal Palace,0.551973
-10,Aston Villa,Leicester,0.665386
-11,Aston Villa,Norwich,0.918291
-12,Aston Villa,Liverpool,0.174868
-13,Aston Villa,Everton,0.60177
-14,Aston Villa,Tottenham,1.84022
-15,Aston Villa,Chelsea,0.72512
-16,Aston Villa,Bournemouth,0.220872
-17,Aston Villa,Southampton,1.47192
-18,Aston Villa,Newcastle United,0.0312154
+,home_team,away_team,xG_home,xG_away
+0,Aston Villa,Manchester United,0.219118,0.660404
+1,Aston Villa,Sunderland,2.27406,0.368848
+2,Aston Villa,West Bromwich Albion,0.876719,0.632761
+3,Aston Villa,Stoke,0.839028,1.03499
+4,Aston Villa,Swansea,1.09516,1.74353
+5,Aston Villa,Manchester City,0.182741,1.53281
+6,Aston Villa,Watford,1.48969,1.45176
+7,Aston Villa,Arsenal,1.00876,1.68498
+8,Aston Villa,West Ham,1.61235,0.836027
+9,Aston Villa,Crystal Palace,0.551973,0.547913
+10,Aston Villa,Leicester,0.665386,2.21525
+11,Aston Villa,Norwich,0.918291,1.1413
+12,Aston Villa,Liverpool,0.174868,2.00756
+13,Aston Villa,Everton,0.60177,2.63668
+14,Aston Villa,Tottenham,1.84022,2.00141
+15,Aston Villa,Chelsea,0.72512,2.49358
+16,Aston Villa,Bournemouth,0.220872,1.0038
+17,Aston Villa,Southampton,1.47192,3.6648
+18,Aston Villa,Newcastle United,0.0312154,1.09626

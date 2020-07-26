@@ -1,19 +1,20 @@
-,home_team,away_team,xG
-0,Manchester United,Chelsea,2.37442
-1,Manchester United,Crystal Palace,2.23561
-2,Manchester United,Leicester,1.10019
-3,Manchester United,Arsenal,1.1335
-4,Manchester United,Liverpool,0.791862
-5,Manchester United,Brighton,3.65299
-6,Manchester United,Aston Villa,1.84804
-7,Manchester United,Tottenham,1.47683
-8,Manchester United,Everton,1.48327
-9,Manchester United,Newcastle United,1.99638
-10,Manchester United,Norwich,3.13456
-11,Manchester United,Burnley,1.416
-12,Manchester United,Wolverhampton Wanderers,1.18608
-13,Manchester United,Watford,2.5042
-14,Manchester United,Manchester City,1.7389
-15,Manchester United,Sheffield United,2.8416
-16,Manchester United,Bournemouth,2.63259
-17,Manchester United,Southampton,1.5033
+,home_team,away_team,xG_home,xG_away
+0,Manchester United,Chelsea,2.37442,1.09534
+1,Manchester United,Crystal Palace,2.23561,0.676993
+2,Manchester United,Leicester,1.10019,0.459141
+3,Manchester United,Arsenal,1.1335,1.70399
+4,Manchester United,Liverpool,0.791862,1.03212
+5,Manchester United,Brighton,3.65299,1.1342
+6,Manchester United,Aston Villa,1.84804,1.29701
+7,Manchester United,Tottenham,1.47683,0.542315
+8,Manchester United,Everton,1.48327,0.276759
+9,Manchester United,Newcastle United,1.99638,1.05018
+10,Manchester United,Norwich,3.13456,0.275987
+11,Manchester United,Burnley,1.416,0.717284
+12,Manchester United,Wolverhampton Wanderers,1.18608,1.54211
+13,Manchester United,Watford,2.5042,0.294956
+14,Manchester United,Manchester City,1.7389,0.585469
+15,Manchester United,Sheffield United,2.8416,0.108082
+16,Manchester United,Bournemouth,2.63259,1.52161
+17,Manchester United,Southampton,1.5033,1.8051
+18,Manchester United,West Ham,0.984161,1.29009

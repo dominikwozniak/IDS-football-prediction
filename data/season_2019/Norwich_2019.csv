@@ -1,20 +1,20 @@
-,home_team,away_team,xG
-0,Norwich,Newcastle United,2.09572
-1,Norwich,Chelsea,1.07904
-2,Norwich,Manchester City,1.7413
-3,Norwich,Aston Villa,1.84838
-4,Norwich,Manchester United,0.8924
-5,Norwich,Watford,0.62104
-6,Norwich,Arsenal,0.810596
-7,Norwich,Sheffield United,0.585805
-8,Norwich,Wolverhampton Wanderers,1.26536
-9,Norwich,Tottenham,0.268052
-10,Norwich,Crystal Palace,1.66454
-11,Norwich,Bournemouth,1.76046
-12,Norwich,Liverpool,0.383495
-13,Norwich,Leicester,0.591716
-14,Norwich,Southampton,0.654932
-15,Norwich,Everton,0.382813
-16,Norwich,Brighton,0.545069
-17,Norwich,West Ham,0.613251
-18,Norwich,Burnley,0.576602
+,home_team,away_team,xG_home,xG_away
+0,Norwich,Newcastle United,2.09572,0.920429
+1,Norwich,Chelsea,1.07904,1.89428
+2,Norwich,Manchester City,1.7413,2.34436
+3,Norwich,Aston Villa,1.84838,3.67827
+4,Norwich,Manchester United,0.8924,4.51232
+5,Norwich,Watford,0.62104,1.36017
+6,Norwich,Arsenal,0.810596,1.96157
+7,Norwich,Sheffield United,0.585805,0.712899
+8,Norwich,Wolverhampton Wanderers,1.26536,1.65224
+9,Norwich,Tottenham,0.268052,1.82189
+10,Norwich,Crystal Palace,1.66454,1.29896
+11,Norwich,Bournemouth,1.76046,0.558298
+12,Norwich,Liverpool,0.383495,2.07331
+13,Norwich,Leicester,0.591716,1.42581
+14,Norwich,Southampton,0.654932,1.87099
+15,Norwich,Everton,0.382813,0.654912
+16,Norwich,Brighton,0.545069,0.903046
+17,Norwich,West Ham,0.613251,3.81088
+18,Norwich,Burnley,0.576602,1.8233

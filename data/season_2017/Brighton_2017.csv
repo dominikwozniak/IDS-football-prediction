@@ -1,20 +1,20 @@
-,home_team,away_team,xG
-0,Brighton,Manchester City,0.276343
-1,Brighton,West Bromwich Albion,0.396771
-2,Brighton,Newcastle United,0.507341
-3,Brighton,Everton,1.05884
-4,Brighton,Southampton,1.50533
-5,Brighton,Stoke,0.490058
-6,Brighton,Crystal Palace,0.475162
-7,Brighton,Liverpool,1.65878
-8,Brighton,Burnley,1.49029
-9,Brighton,Watford,1.40139
-10,Brighton,Bournemouth,2.37332
-11,Brighton,Chelsea,0.881174
-12,Brighton,West Ham,1.64227
-13,Brighton,Swansea,3.2913
-14,Brighton,Arsenal,1.48498
-15,Brighton,Leicester,1.60322
-16,Brighton,Huddersfield,1.53244
-17,Brighton,Tottenham,0.988099
-18,Brighton,Manchester United,0.922771
+,home_team,away_team,xG_home,xG_away
+0,Brighton,Manchester City,0.276343,1.86751
+1,Brighton,West Bromwich Albion,0.396771,0.866679
+2,Brighton,Newcastle United,0.507341,1.37001
+3,Brighton,Everton,1.05884,1.45518
+4,Brighton,Southampton,1.50533,0.54364
+5,Brighton,Stoke,0.490058,1.20507
+6,Brighton,Crystal Palace,0.475162,0.584296
+7,Brighton,Liverpool,1.65878,1.77566
+8,Brighton,Burnley,1.49029,1.32536
+9,Brighton,Watford,1.40139,1.30044
+10,Brighton,Bournemouth,2.37332,1.28248
+11,Brighton,Chelsea,0.881174,1.52008
+12,Brighton,West Ham,1.64227,0.443751
+13,Brighton,Swansea,3.2913,0.443169
+14,Brighton,Arsenal,1.48498,0.801513
+15,Brighton,Leicester,1.60322,1.26582
+16,Brighton,Huddersfield,1.53244,1.48964
+17,Brighton,Tottenham,0.988099,1.36248
+18,Brighton,Manchester United,0.922771,0.652444

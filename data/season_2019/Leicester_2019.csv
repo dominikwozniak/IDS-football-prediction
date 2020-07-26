@@ -1,19 +1,20 @@
-,home_team,away_team,xG
-0,Leicester,Wolverhampton Wanderers,0.543759
-1,Leicester,Bournemouth,2.23766
-2,Leicester,Tottenham,1.28752
-3,Leicester,Newcastle United,1.82438
-4,Leicester,Burnley,0.8291
-5,Leicester,Arsenal,1.37055
-6,Leicester,Everton,2.24348
-7,Leicester,Watford,2.28735
-8,Leicester,Norwich,1.06421
-9,Leicester,Liverpool,0.120994
-10,Leicester,Southampton,0.780114
-11,Leicester,West Ham,2.91302
-12,Leicester,Chelsea,1.65956
-13,Leicester,Manchester City,0.723269
-14,Leicester,Aston Villa,2.41239
-15,Leicester,Brighton,0.505486
-16,Leicester,Crystal Palace,2.20683
-17,Leicester,Sheffield United,3.05752
+,home_team,away_team,xG_home,xG_away
+0,Leicester,Wolverhampton Wanderers,0.543759,0.812949
+1,Leicester,Bournemouth,2.23766,0.554726
+2,Leicester,Tottenham,1.28752,1.33735
+3,Leicester,Newcastle United,1.82438,0.054134
+4,Leicester,Burnley,0.8291,1.79569
+5,Leicester,Arsenal,1.37055,0.961339
+6,Leicester,Everton,2.24348,1.24986
+7,Leicester,Watford,2.28735,0.199733
+8,Leicester,Norwich,1.06421,1.16408
+9,Leicester,Liverpool,0.120994,3.76973
+10,Leicester,Southampton,0.780114,2.40601
+11,Leicester,West Ham,2.91302,1.16254
+12,Leicester,Chelsea,1.65956,0.806995
+13,Leicester,Manchester City,0.723269,2.42749
+14,Leicester,Aston Villa,2.41239,0.672448
+15,Leicester,Brighton,0.505486,1.10227
+16,Leicester,Crystal Palace,2.20683,0.507537
+17,Leicester,Sheffield United,3.05752,0.660214
+18,Leicester,Manchester United,0.754668,1.41019

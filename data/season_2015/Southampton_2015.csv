@@ -1,20 +1,20 @@
-,home_team,away_team,xG
-0,Southampton,Everton,1.06214
-1,Southampton,Norwich,2.85501
-2,Southampton,Manchester United,1.83663
-3,Southampton,Swansea,1.55418
-4,Southampton,Leicester,1.46668
-5,Southampton,Bournemouth,1.15966
-6,Southampton,Stoke,0.709485
-7,Southampton,Aston Villa,2.86051
-8,Southampton,Tottenham,0.83385
-9,Southampton,Arsenal,2.4303
-10,Southampton,Watford,1.7224
-11,Southampton,West Bromwich Albion,1.42623
-12,Southampton,West Ham,1.06493
-13,Southampton,Chelsea,1.01074
-14,Southampton,Sunderland,1.54587
-15,Southampton,Liverpool,1.56873
-16,Southampton,Newcastle United,1.78477
-17,Southampton,Manchester City,2.84362
-18,Southampton,Crystal Palace,2.32278
+,home_team,away_team,xG_home,xG_away
+0,Southampton,Everton,1.06214,1.39628
+1,Southampton,Norwich,2.85501,0.639434
+2,Southampton,Manchester United,1.83663,1.65119
+3,Southampton,Swansea,1.55418,1.41962
+4,Southampton,Leicester,1.46668,2.78648
+5,Southampton,Bournemouth,1.15966,0.712132
+6,Southampton,Stoke,0.709485,1.19495
+7,Southampton,Aston Villa,2.86051,1.058
+8,Southampton,Tottenham,0.83385,1.47453
+9,Southampton,Arsenal,2.4303,0.83106
+10,Southampton,Watford,1.7224,0.11543
+11,Southampton,West Bromwich Albion,1.42623,0.410757
+12,Southampton,West Ham,1.06493,0.970583
+13,Southampton,Chelsea,1.01074,0.631036
+14,Southampton,Sunderland,1.54587,1.31562
+15,Southampton,Liverpool,1.56873,1.29046
+16,Southampton,Newcastle United,1.78477,0.165982
+17,Southampton,Manchester City,2.84362,1.12719
+18,Southampton,Crystal Palace,2.32278,1.24857

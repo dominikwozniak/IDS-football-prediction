@@ -1,19 +1,20 @@
-,home_team,away_team,xG
-0,Watford,Brighton,0.670022
-1,Watford,West Ham,2.29348
-2,Watford,Arsenal,2.83209
-3,Watford,Sheffield United,1.44318
-4,Watford,Bournemouth,0.674903
-5,Watford,Chelsea,1.4744
-6,Watford,Burnley,0.902384
-7,Watford,Crystal Palace,1.57132
-8,Watford,Manchester United,1.59291
-9,Watford,Aston Villa,3.25314
-10,Watford,Wolverhampton Wanderers,1.07053
-11,Watford,Tottenham,2.39174
-12,Watford,Everton,0.919248
-13,Watford,Liverpool,2.71351
-14,Watford,Leicester,1.00765
-15,Watford,Southampton,0.365347
-16,Watford,Norwich,0.725199
-17,Watford,Newcastle United,3.12855
+,home_team,away_team,xG_home,xG_away
+0,Watford,Brighton,0.670022,0.855516
+1,Watford,West Ham,2.29348,3.45768
+2,Watford,Arsenal,2.83209,1.00616
+3,Watford,Sheffield United,1.44318,0.353724
+4,Watford,Bournemouth,0.674903,0.899526
+5,Watford,Chelsea,1.4744,2.18313
+6,Watford,Burnley,0.902384,2.66281
+7,Watford,Crystal Palace,1.57132,0.210746
+8,Watford,Manchester United,1.59291,1.5309
+9,Watford,Aston Villa,3.25314,0.610997
+10,Watford,Wolverhampton Wanderers,1.07053,1.23252
+11,Watford,Tottenham,2.39174,1.76697
+12,Watford,Everton,0.919248,2.70178
+13,Watford,Liverpool,2.71351,0.206031
+14,Watford,Leicester,1.00765,1.05245
+15,Watford,Southampton,0.365347,1.3364
+16,Watford,Norwich,0.725199,1.13378
+17,Watford,Newcastle United,3.12855,1.49134
+18,Watford,Manchester City,0.131868,3.73814

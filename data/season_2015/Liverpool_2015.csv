@@ -1,20 +1,20 @@
-,home_team,away_team,xG
-0,Liverpool,Bournemouth,2.15062
-1,Liverpool,West Ham,0.561737
-2,Liverpool,Norwich,1.90447
-3,Liverpool,Aston Villa,1.78331
-4,Liverpool,Southampton,0.682823
-5,Liverpool,Crystal Palace,2.15673
-6,Liverpool,Swansea,1.19358
-7,Liverpool,West Bromwich Albion,2.12583
-8,Liverpool,Leicester,1.37933
-9,Liverpool,Arsenal,1.16222
-10,Liverpool,Manchester United,0.952974
-11,Liverpool,Sunderland,1.57712
-12,Liverpool,Manchester City,1.16781
-13,Liverpool,Tottenham,1.37954
-14,Liverpool,Stoke,2.21484
-15,Liverpool,Everton,3.24472
-16,Liverpool,Newcastle United,0.712881
-17,Liverpool,Watford,2.38919
-18,Liverpool,Chelsea,1.83934
+,home_team,away_team,xG_home,xG_away
+0,Liverpool,Bournemouth,2.15062,0.460805
+1,Liverpool,West Ham,0.561737,0.97217
+2,Liverpool,Norwich,1.90447,0.556271
+3,Liverpool,Aston Villa,1.78331,0.892054
+4,Liverpool,Southampton,0.682823,1.56383
+5,Liverpool,Crystal Palace,2.15673,0.849281
+6,Liverpool,Swansea,1.19358,0.367517
+7,Liverpool,West Bromwich Albion,2.12583,0.835885
+8,Liverpool,Leicester,1.37933,0.505167
+9,Liverpool,Arsenal,1.16222,2.22912
+10,Liverpool,Manchester United,0.952974,0.715703
+11,Liverpool,Sunderland,1.57712,0.491843
+12,Liverpool,Manchester City,1.16781,0.180318
+13,Liverpool,Tottenham,1.37954,1.23579
+14,Liverpool,Stoke,2.21484,0.85508
+15,Liverpool,Everton,3.24472,0.0886329
+16,Liverpool,Newcastle United,0.712881,0.253033
+17,Liverpool,Watford,2.38919,0.930803
+18,Liverpool,Chelsea,1.83934,0.812268

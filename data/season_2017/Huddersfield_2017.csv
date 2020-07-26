@@ -1,20 +1,20 @@
-,home_team,away_team,xG
-0,Huddersfield,Newcastle United,0.267008
-1,Huddersfield,Southampton,1.51605
-2,Huddersfield,Leicester,0.700349
-3,Huddersfield,Tottenham,0.196648
-4,Huddersfield,Manchester United,1.26744
-5,Huddersfield,West Bromwich Albion,0.260436
-6,Huddersfield,Manchester City,0.537698
-7,Huddersfield,Brighton,2.68125
-8,Huddersfield,Chelsea,0.476748
-9,Huddersfield,Stoke,1.8756
-10,Huddersfield,Burnley,0.049118
-11,Huddersfield,West Ham,0.681
-12,Huddersfield,Liverpool,0.288048
-13,Huddersfield,Bournemouth,2.56699
-14,Huddersfield,Swansea,1.39381
-15,Huddersfield,Crystal Palace,0.220381
-16,Huddersfield,Watford,0.929512
-17,Huddersfield,Everton,0.56538
-18,Huddersfield,Arsenal,1.31031
+,home_team,away_team,xG_home,xG_away
+0,Huddersfield,Newcastle United,0.267008,0.973322
+1,Huddersfield,Southampton,1.51605,0.795911
+2,Huddersfield,Leicester,0.700349,1.24181
+3,Huddersfield,Tottenham,0.196648,1.56089
+4,Huddersfield,Manchester United,1.26744,0.807135
+5,Huddersfield,West Bromwich Albion,0.260436,0.382005
+6,Huddersfield,Manchester City,0.537698,2.66178
+7,Huddersfield,Brighton,2.68125,0.273809
+8,Huddersfield,Chelsea,0.476748,1.8707
+9,Huddersfield,Stoke,1.8756,1.19984
+10,Huddersfield,Burnley,0.049118,1.20923
+11,Huddersfield,West Ham,0.681,0.986853
+12,Huddersfield,Liverpool,0.288048,2.05148
+13,Huddersfield,Bournemouth,2.56699,0.433555
+14,Huddersfield,Swansea,1.39381,0
+15,Huddersfield,Crystal Palace,0.220381,2.74705
+16,Huddersfield,Watford,0.929512,0.306273
+17,Huddersfield,Everton,0.56538,0.943754
+18,Huddersfield,Arsenal,1.31031,2.3322

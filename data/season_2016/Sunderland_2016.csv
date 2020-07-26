@@ -1,20 +1,20 @@
-,home_team,away_team,xG
-0,Sunderland,Middlesbrough,1.4645
-1,Sunderland,Everton,1.0404
-2,Sunderland,Crystal Palace,1.51457
-3,Sunderland,West Bromwich Albion,1.19268
-4,Sunderland,Arsenal,0.853434
-5,Sunderland,Hull,0.951511
-6,Sunderland,Leicester,1.4282
-7,Sunderland,Chelsea,0.473979
-8,Sunderland,Watford,1.13526
-9,Sunderland,Liverpool,1.91057
-10,Sunderland,Stoke,1.1365
-11,Sunderland,Tottenham,0.228009
-12,Sunderland,Southampton,0.197925
-13,Sunderland,Manchester City,0.737758
-14,Sunderland,Burnley,1.03287
-15,Sunderland,Manchester United,0.977316
-16,Sunderland,West Ham,1.14121
-17,Sunderland,Bournemouth,1.6667
-18,Sunderland,Swansea,1.03765
+,home_team,away_team,xG_home,xG_away
+0,Sunderland,Middlesbrough,1.4645,0.854908
+1,Sunderland,Everton,1.0404,2.84526
+2,Sunderland,Crystal Palace,1.51457,1.7887
+3,Sunderland,West Bromwich Albion,1.19268,0.88211
+4,Sunderland,Arsenal,0.853434,2.48348
+5,Sunderland,Hull,0.951511,1.25065
+6,Sunderland,Leicester,1.4282,1.13791
+7,Sunderland,Chelsea,0.473979,1.22459
+8,Sunderland,Watford,1.13526,1.07552
+9,Sunderland,Liverpool,1.91057,2.332
+10,Sunderland,Stoke,1.1365,1.22897
+11,Sunderland,Tottenham,0.228009,0.682758
+12,Sunderland,Southampton,0.197925,1.72717
+13,Sunderland,Manchester City,0.737758,2.48022
+14,Sunderland,Burnley,1.03287,1.18742
+15,Sunderland,Manchester United,0.977316,1.6943
+16,Sunderland,West Ham,1.14121,1.42815
+17,Sunderland,Bournemouth,1.6667,1.53094
+18,Sunderland,Swansea,1.03765,0.344096

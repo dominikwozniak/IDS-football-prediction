@@ -1,19 +1,20 @@
-,home_team,away_team,xG
-0,Crystal Palace,Everton,0.87159
-1,Crystal Palace,Aston Villa,1.41394
-2,Crystal Palace,Wolverhampton Wanderers,0.984777
-3,Crystal Palace,Norwich,1.80497
-4,Crystal Palace,Manchester City,0.616864
-5,Crystal Palace,Leicester,0.44291
-6,Crystal Palace,Liverpool,1.02306
-7,Crystal Palace,Bournemouth,0.383763
-8,Crystal Palace,Brighton,0.484859
-9,Crystal Palace,West Ham,2.14195
-10,Crystal Palace,Arsenal,0.317862
-11,Crystal Palace,Southampton,0.674589
-12,Crystal Palace,Sheffield United,0.970063
-13,Crystal Palace,Newcastle United,1.75552
-14,Crystal Palace,Watford,0.856107
-15,Crystal Palace,Burnley,1.06533
-16,Crystal Palace,Chelsea,1.2882
-17,Crystal Palace,Manchester United,0.572141
+,home_team,away_team,xG_home,xG_away
+0,Crystal Palace,Everton,0.87159,1.2246
+1,Crystal Palace,Aston Villa,1.41394,0.30354
+2,Crystal Palace,Wolverhampton Wanderers,0.984777,1.75572
+3,Crystal Palace,Norwich,1.80497,0.712129
+4,Crystal Palace,Manchester City,0.616864,4.02104
+5,Crystal Palace,Leicester,0.44291,0.981167
+6,Crystal Palace,Liverpool,1.02306,1.64291
+7,Crystal Palace,Bournemouth,0.383763,0.342799
+8,Crystal Palace,Brighton,0.484859,2.48355
+9,Crystal Palace,West Ham,2.14195,0.796338
+10,Crystal Palace,Arsenal,0.317862,1.43924
+11,Crystal Palace,Southampton,0.674589,1.1306
+12,Crystal Palace,Sheffield United,0.970063,0.860755
+13,Crystal Palace,Newcastle United,1.75552,0.164495
+14,Crystal Palace,Watford,0.856107,0.449161
+15,Crystal Palace,Burnley,1.06533,0.359906
+16,Crystal Palace,Chelsea,1.2882,2.65753
+17,Crystal Palace,Manchester United,0.572141,1.90448
+18,Crystal Palace,Tottenham,0.988534,0.310302

@@ -1,20 +1,20 @@
-,home_team,away_team,xG
-0,Newcastle United,Southampton,1.54613
-1,Newcastle United,Arsenal,0.0319694
-2,Newcastle United,Watford,1.15114
-3,Newcastle United,Chelsea,0.702109
-4,Newcastle United,Norwich,2.24896
-5,Newcastle United,Stoke,1.26075
-6,Newcastle United,Leicester,0.372387
-7,Newcastle United,Liverpool,0.646346
-8,Newcastle United,Aston Villa,1.28189
-9,Newcastle United,Everton,1.35711
-10,Newcastle United,Manchester United,1.81304
-11,Newcastle United,West Ham,1.84261
-12,Newcastle United,West Bromwich Albion,2.41057
-13,Newcastle United,Bournemouth,0.833931
-14,Newcastle United,Sunderland,0.940593
-15,Newcastle United,Swansea,1.5024
-16,Newcastle United,Manchester City,0.455246
-17,Newcastle United,Crystal Palace,0.53407
-18,Newcastle United,Tottenham,2.42808
+,home_team,away_team,xG_home,xG_away
+0,Newcastle United,Southampton,1.54613,1.2529
+1,Newcastle United,Arsenal,0.0319694,2.33948
+2,Newcastle United,Watford,1.15114,1.33961
+3,Newcastle United,Chelsea,0.702109,1.30593
+4,Newcastle United,Norwich,2.24896,1.34395
+5,Newcastle United,Stoke,1.26075,1.38017
+6,Newcastle United,Leicester,0.372387,3.27478
+7,Newcastle United,Liverpool,0.646346,0.999043
+8,Newcastle United,Aston Villa,1.28189,0.404373
+9,Newcastle United,Everton,1.35711,1.69923
+10,Newcastle United,Manchester United,1.81304,2.36216
+11,Newcastle United,West Ham,1.84261,1.08248
+12,Newcastle United,West Bromwich Albion,2.41057,0.472556
+13,Newcastle United,Bournemouth,0.833931,1.26853
+14,Newcastle United,Sunderland,0.940593,0.785017
+15,Newcastle United,Swansea,1.5024,0.787081
+16,Newcastle United,Manchester City,0.455246,0.522043
+17,Newcastle United,Crystal Palace,0.53407,1.05079
+18,Newcastle United,Tottenham,2.42808,0.869082

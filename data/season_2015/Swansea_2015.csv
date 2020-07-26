@@ -1,20 +1,20 @@
-,home_team,away_team,xG
-0,Swansea,Newcastle United,1.97424
-1,Swansea,Manchester United,0.971183
-2,Swansea,Everton,0.864868
-3,Swansea,Tottenham,0.774806
-4,Swansea,Stoke,0.485489
-5,Swansea,Arsenal,0.264441
-6,Swansea,Bournemouth,1.88526
-7,Swansea,Leicester,0.780602
-8,Swansea,West Ham,0.973378
-9,Swansea,West Bromwich Albion,1.21243
-10,Swansea,Sunderland,1.06526
-11,Swansea,Watford,0.474035
-12,Swansea,Crystal Palace,1.32136
-13,Swansea,Southampton,0.699012
-14,Swansea,Norwich,0.545937
-15,Swansea,Aston Villa,0.490469
-16,Swansea,Chelsea,1.9071
-17,Swansea,Liverpool,2.31862
-18,Swansea,Manchester City,0.115604
+,home_team,away_team,xG_home,xG_away
+0,Swansea,Newcastle United,1.97424,0.113109
+1,Swansea,Manchester United,0.971183,1.28089
+2,Swansea,Everton,0.864868,1.77458
+3,Swansea,Tottenham,0.774806,1.18142
+4,Swansea,Stoke,0.485489,1.64894
+5,Swansea,Arsenal,0.264441,2.17657
+6,Swansea,Bournemouth,1.88526,1.58509
+7,Swansea,Leicester,0.780602,2.20962
+8,Swansea,West Ham,0.973378,0.401988
+9,Swansea,West Bromwich Albion,1.21243,0.554583
+10,Swansea,Sunderland,1.06526,2.49057
+11,Swansea,Watford,0.474035,0.525478
+12,Swansea,Crystal Palace,1.32136,1.01465
+13,Swansea,Southampton,0.699012,1.19353
+14,Swansea,Norwich,0.545937,0.580126
+15,Swansea,Aston Villa,0.490469,0.730828
+16,Swansea,Chelsea,1.9071,1.3003
+17,Swansea,Liverpool,2.31862,0.776186
+18,Swansea,Manchester City,0.115604,2.04003

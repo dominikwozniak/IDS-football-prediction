@@ -1,20 +1,20 @@
-,home_team,away_team,xG
-0,West Ham,Huddersfield,1.94969
-1,West Ham,Tottenham,0.67667
-2,West Ham,Swansea,0.692185
-3,West Ham,Brighton,0.569111
-4,West Ham,Liverpool,1.13045
-5,West Ham,Leicester,0.775297
-6,West Ham,Chelsea,0.418127
-7,West Ham,Arsenal,0.405172
-8,West Ham,Newcastle United,2.31898
-9,West Ham,West Bromwich Albion,1.0594
-10,West Ham,Bournemouth,0.980241
-11,West Ham,Crystal Palace,1.11632
-12,West Ham,Watford,1.83359
-13,West Ham,Burnley,0.72673
-14,West Ham,Southampton,1.44971
-15,West Ham,Stoke,0.807456
-16,West Ham,Manchester City,0.228917
-17,West Ham,Manchester United,0.783043
-18,West Ham,Everton,1.18299
+,home_team,away_team,xG_home,xG_away
+0,West Ham,Huddersfield,1.94969,0.339338
+1,West Ham,Tottenham,0.67667,1.45327
+2,West Ham,Swansea,0.692185,0.178568
+3,West Ham,Brighton,0.569111,1.98345
+4,West Ham,Liverpool,1.13045,2.8773
+5,West Ham,Leicester,0.775297,0.453851
+6,West Ham,Chelsea,0.418127,1.18891
+7,West Ham,Arsenal,0.405172,1.02186
+8,West Ham,Newcastle United,2.31898,1.90622
+9,West Ham,West Bromwich Albion,1.0594,0.63538
+10,West Ham,Bournemouth,0.980241,0.501886
+11,West Ham,Crystal Palace,1.11632,1.15809
+12,West Ham,Watford,1.83359,0.799928
+13,West Ham,Burnley,0.72673,1.41929
+14,West Ham,Southampton,1.44971,0.446641
+15,West Ham,Stoke,0.807456,1.41085
+16,West Ham,Manchester City,0.228917,2.29076
+17,West Ham,Manchester United,0.783043,0.596075
+18,West Ham,Everton,1.18299,1.67867

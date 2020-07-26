@@ -1,4 +1,5 @@
-TEAMS_2019 = ["Manchester City",
+TEAMS_2019 = ["Liverpool",
+              "Manchester City",
               "Chelsea",
               "Leicester",
               "Manchester United",
@@ -16,14 +17,14 @@ TEAMS_2019 = ["Manchester City",
               "Watford",
               "Bournemouth",
               "Aston Villa",
-              "Norwich",
+              "Norwich"
               ]
 
 TEAMS_2018 = ["Liverpool",
               "Manchester United",
               "Tottenham",
               "Arsenal",
-              "Manchester United",
+              "Manchester City",
               "Chelsea",
               "Wolverhampton Wanderers",
               "Everton",
