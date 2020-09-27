@@ -10,17 +10,30 @@ PATH_TO_CHROME_DRIVER = os.path.join('..', 'chrome_driver', 'chromedriver.exe')
 DOWNLOAD_LINK_TEXT = "Premier League"
 DOWNLOAD_DEFAULT_DIRECTORY = os.environ.get("DOWNLOAD_DEFAULT_DIRECTORY")
 
-# TODO 1
-#  Add try except statements in case of website code changes, etc.
 
-# TODO 2
-#  Optimize scraper in the same way as with xG_data_scraper
+def delete_data(data_dir: str, last_season_counter: int):
+    script_path = os.getcwd()
+    os.chdir(MAIN_DATA_PATH)
 
-# TODO 3
-#  Make this script run periodically (every week ?)
+    print("Deleting latest datasets ...")
+    for x in range(last_season_counter, SEASON_AMOUNT):
+        year = YEARS[x]
+        for file_name in os.listdir(data_dir):
+            if year in file_name:
+                print(f"Deleting dataset [{x-last_season_counter+1}/{SEASON_AMOUNT-last_season_counter}]")
+                os.remove(file_name)
+                break
+
+    os.chdir(script_path)
+    print("Deleting finished successfully")
 
 
-def download_data(download_dir: str, page_address: str):
+def find_last_season(path: str) -> str:
+    years = list(map(lambda x: x[7:11], os.listdir(path)))
+    return max(years)
+
+
+def download_data(download_dir: str, page_address: str, last_season_counter: int = 0):
 
     driver = webdriver.Chrome(PATH_TO_CHROME_DRIVER)
 
@@ -31,8 +44,11 @@ def download_data(download_dir: str, page_address: str):
     links = driver.find_elements_by_link_text(DOWNLOAD_LINK_TEXT)
 
     print(f"Downloading started")
-    for counter in range(SEASON_AMOUNT):
-        print(f"Downloading dataset [{counter + 1} / {SEASON_AMOUNT}]")
+
+    # range(last_season_counter, SEASON_AMOUNT) takes care of downloading only new season if main_data file is not empty
+    # else script downloads all season (last_season_counter = 0 by default)
+    for counter in range(SEASON_AMOUNT-last_season_counter):
+        print(f"Downloading dataset [{counter + 1} / {SEASON_AMOUNT-last_season_counter}]")
         links[counter].click()
         href = links[counter].get_attribute("href")
 
@@ -59,8 +75,19 @@ def download_data(download_dir: str, page_address: str):
     driver.close()
 
 
-if __name__ == "__main__":
+def main():
     if os.path.exists(MAIN_DATA_PATH):
-        os.rmdir(MAIN_DATA_PATH)
-    os.mkdir(MAIN_DATA_PATH)
-    download_data(MAIN_DATA_PATH, PAGE_ADDRESS)
+        last_season = find_last_season(MAIN_DATA_PATH)
+        last_season_counter = YEARS.index(last_season)
+        delete_data(MAIN_DATA_PATH, last_season_counter)
+        download_data(MAIN_DATA_PATH, PAGE_ADDRESS, last_season_counter)
+    else:
+        script_path = os.getcwd()
+        os.chdir("..")
+        os.mkdir("main_data")
+        os.chdir(script_path)
+        download_data(MAIN_DATA_PATH, PAGE_ADDRESS)
+
+
+if __name__ == "__main__":
+    main()
