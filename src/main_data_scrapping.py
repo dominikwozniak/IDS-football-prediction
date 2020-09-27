@@ -2,6 +2,7 @@ from selenium import webdriver
 import os
 from xG_data_scrapping import YEARS
 import time
+import shutil
 
 SEASON_AMOUNT = len(YEARS)
 MAIN_DATA_PATH = os.path.join('..', 'main_data')
@@ -61,6 +62,6 @@ def download_data(download_dir: str, page_address: str):
 
 if __name__ == "__main__":
     if os.path.exists(MAIN_DATA_PATH):
-        os.rmdir(MAIN_DATA_PATH)
+        shutil.rmtree(MAIN_DATA_PATH)
     os.mkdir(MAIN_DATA_PATH)
     download_data(MAIN_DATA_PATH, PAGE_ADDRESS)

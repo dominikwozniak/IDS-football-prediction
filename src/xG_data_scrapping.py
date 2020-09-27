@@ -12,9 +12,9 @@ from xG_teams import *
 
 DATA_PATH = os.path.join('..', 'data')
 LAST_DATE_PATH = os.path.join('..', 'last_date.txt')
-LIST_OF_TEAMS = [TEAMS_2015, TEAMS_2016, TEAMS_2017, TEAMS_2018, TEAMS_2019]
-YEARS = ['2015', '2016', '2017', '2018', '2019']
-YEARS_FLAG = [2015, 2016, 2017, 2018, 2019]
+LIST_OF_TEAMS = [TEAMS_2015, TEAMS_2016, TEAMS_2017, TEAMS_2018, TEAMS_2019, TEAMS_2020]
+YEARS = ['2015', '2016', '2017', '2018', '2019', '2020']
+YEARS_FLAG = [2015, 2016, 2017, 2018, 2019, 2020]
 
 
 def find_last_season(path: str) -> int:
