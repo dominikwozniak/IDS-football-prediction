@@ -44,7 +44,7 @@ soupsieve==2.0.1
 threadpoolctl==2.1.0
 typing-extensions==3.7.4.2
 understat==0.1.2
-urllib3==1.25.9
+urllib3==1.26.5
 wcwidth==0.2.5
 xgboost==1.1.1
 yarl==1.4.2
